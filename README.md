@@ -20,3 +20,8 @@ A fast and efficient script to convert Excel (`.xlsx`) files into optimized MySQ
 
 ## Usage 🔧
 Place your `.xlsx` files in the `files/` directory, then simply execute the `.bat` script. The script will convert each `.xlsx` file into a `.sql` file containing `CREATE TABLE` and `INSERT INTO` statements ready for MySQL.
+
+## Things to know before you start.
+- Multiple files progress bar kinda bugged out at the moment (can't be bothered to fix that yet, doesn't affect conversion).
+- If you see no progress at the beginning, it is normal, it will start eventually.
+- Thats about it. Enjoy!
