@@ -16,14 +16,7 @@ A fast and efficient script to convert Excel (`.xlsx`) files into optimized MySQ
     git clone https://github.com/danielgjypi/XLSXtoSQL.git
     ```
 2. Install Python (if not already installed) and make sure `pip` is available.
-3. Run the script:
-    ```bash
-    python xlsx_to_sql.py
-    ```
+3. Run the script: `convert_xlsx_sql.bat`
 
 ## Usage 🔧
-Place your `.xlsx` files in the `files/` directory, then simply execute the script. The script will convert each `.xlsx` file into a `.sql` file containing `CREATE TABLE` and `INSERT INTO` statements ready for MySQL.
-
-### Example:
-```bash
-python xlsx_to_sql.py
+Place your `.xlsx` files in the `files/` directory, then simply execute the `.bat` script. The script will convert each `.xlsx` file into a `.sql` file containing `CREATE TABLE` and `INSERT INTO` statements ready for MySQL.
