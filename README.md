@@ -13,7 +13,7 @@ A fast and efficient script to convert Excel (`.xlsx`) files into optimized MySQ
 ## Installation 📥
 1. Clone the repo:
     ```bash
-    git clone https://github.com/yourusername/xlsx-to-sql-converter.git
+    git clone https://github.com/danielgjypi/XLSXtoSQL.git
     ```
 2. Install Python (if not already installed) and make sure `pip` is available.
 3. Run the script:
