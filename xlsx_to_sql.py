@@ -85,7 +85,7 @@ def main():
                 result = f.result()
                 print(result)
 
-    print("\n🎉 All done twin! 🚀💥")
+    print("\n🎉 All done twin!")
 
 if __name__ == "__main__":
     main()
